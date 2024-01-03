@@ -14,11 +14,11 @@ Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 
 - State management with `useReducer` and `Context API`.
 - `React Router` library was used for routing throughout the app.
-- `useCallback`
+- `useCallback` to memoize functions.
 - `CSS modules` library was used for styling the app.
-- [Leaflet's Map API](https://react-leaflet.js.org/).
 
 ### Notes
 
-- Built with Vite.
+- The map used in this app was built with the [Leaflet API](https://react-leaflet.js.org/).
+- App built with Vite.
 - Not optimized for small screens, since the goal of this project was to practice React/JS features.
