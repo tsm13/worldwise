@@ -4,7 +4,7 @@ Original project designed by [Jonas Schmedtmann](https://github.com/jonasschmedt
 
 ## Live Version
 
-Available [here on Netlify](https://usepopcorn-tsm13.netlify.app/).
+Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 
 ### Project Features
 
@@ -16,10 +16,9 @@ Available [here on Netlify](https://usepopcorn-tsm13.netlify.app/).
 - `React Router` library was used for routing throughout the app.
 - `useCallback`
 - `CSS modules` library was used for styling the app.
-- `Geolocation`
-- Leaflet's Map API.
+- [Leaflet's Map API](https://react-leaflet.js.org/).
 
 ### Notes
 
 - Built with Vite.
-- Not 100% optimized for small screens, since the goal of this project was to practice mainly React/JS features, but it should be mobile-friendly enough.
+- Not optimized for small screens, since the goal of this project was to practice React/JS features.
