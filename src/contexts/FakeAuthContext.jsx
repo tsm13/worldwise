@@ -13,7 +13,7 @@ function reducer(state, action) {
   switch (action.type) {
     case "login":
       return {
-        ...state, // <- keeping this makes the code future-proof!
+        ...state,
         user: action.payload,
         isAuthenticated: true,
       };

@@ -9,6 +9,7 @@ Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 ### Project Features
 
 - Users can pick a location on the map, or let the app pick their location based on their current coordinates.
+- The app saves each chosen city and displays them in a list.
 
 ### Main technical concepts applied in this project:
 
@@ -19,6 +20,7 @@ Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 
 ### Notes
 
+- This project has a simple, fake Auth screen that is pre-filled for development purposes. It's not fully integrated with a database, although the data itself comes from a mock database.
 - The map used in this app was built with the [Leaflet API](https://react-leaflet.js.org/).
-- App built with Vite.
-- Not optimized for small screens, since the goal of this project was to practice React/JS features.
+- The app was built with Vite.
+- This project is not optimized for small screens, since the main goal was to practice React/JS features.
