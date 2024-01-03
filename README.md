@@ -20,7 +20,7 @@ Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 
 ### Notes
 
-- This project has a simple, fake Auth screen that is pre-filled for development purposes. It's not fully integrated with a database, although the data itself comes from a mock database.
+- This project has a simple, fake Auth screen that is pre-filled for development purposes. It's not fully integrated with a database. Although the cities data comes from a mock database hosted on [Glitch](https://glitch.com/).
 - The map used in this app was built with the [Leaflet API](https://react-leaflet.js.org/).
 - The app was built with Vite.
 - This project is not optimized for small screens, since the main goal was to practice React/JS features.
