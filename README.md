@@ -11,6 +11,9 @@ Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 - Users can pick a location on the map, or let the app pick their location based on their current coordinates.
 - The app saves each chosen city and displays them in a list.
 
+![Screenshot1](https://github.com/tsm13/worldwise/blob/master/public/screenshots/01.jpg?raw=true)
+![Screenshot2](https://github.com/tsm13/worldwise/blob/master/public/screenshots/02.jpg?raw=true)
+
 ### Tools and technical concepts
 
 - State management with `useReducer` and `Context API`.
