@@ -6,12 +6,12 @@ Original project designed by [Jonas Schmedtmann](https://github.com/jonasschmedt
 
 Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 
-### Project Features
+## Project Features
 
 - Users can pick a location on the map, or let the app pick their location based on their current coordinates.
 - The app saves each chosen city and displays them in a list.
 
-### Main technical concepts applied in this project:
+### Tools and technical concepts
 
 - State management with `useReducer` and `Context API`.
 - `React Router` library was used for routing throughout the app.
@@ -20,7 +20,8 @@ Available [here on Netlify](https://worldwise-tsm13.netlify.app/).
 
 ### Notes
 
-- This project has a simple, fake Auth screen that is pre-filled for development purposes. It's not fully integrated with a database. Although the cities data comes from a mock database hosted on [Glitch](https://glitch.com/).
+- Build tool: Vite.
+- Optimized for mobile: No, since the main goal was to practice React/JS features.
+- This project has a simple, fake Auth screen that is pre-filled for development purposes. It's not fully integrated with a database.
+- The cities data, however, comes from a mock database hosted on [Glitch](https://glitch.com/).
 - The map used in this app was built with the [Leaflet API](https://react-leaflet.js.org/).
-- The app was built with Vite.
-- This project is not optimized for small screens, since the main goal was to practice React/JS features.
